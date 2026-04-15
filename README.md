@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gandhar Dhore</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver;Building+Scalable+Web+Apps" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver;Building+Scalable+Web+Apps&center=true&width=600&height=50&color=00F7FF&size=25" />
 </p>
 
 <!-- ==================== GIF ==================== -->
@@ -63,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gandharr&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gandharr&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=gandharr&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
