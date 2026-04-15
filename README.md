@@ -1,5 +1,4 @@
 <!-- ==================== HEADER ==================== -->
-<h1 align="center">Gandhar Dhore</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Scalable+Web+Apps;Problem+Solver&center=true&width=600&height=45&color=00F7FF&size=22" />
