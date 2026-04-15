@@ -1,8 +1,8 @@
 <!-- ==================== HEADER ==================== -->
-<h1 align="center">Hi 👋, I'm Gandhar Dhore</h1>
+<h1 align="center">Gandhar Dhore</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver;Building+Scalable+Web+Apps&center=true&width=600&height=50&color=00F7FF&size=25" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Scalable+Web+Apps;Problem+Solver&center=true&width=600&height=45&color=00F7FF&size=22" />
 </p>
 
 <!-- ==================== GIF ==================== -->
@@ -13,10 +13,9 @@
 ---
 
 ## 🧑‍💻 About Me
-💻 Computer Science Engineering student at GITAM University  
-🚀 Passionate about building scalable web applications  
-🎯 Focused on clean code, performance & user experience  
-🌱 Exploring full-stack development & system design  
+
+I’m a Computer Science Engineering student at **GITAM University** passionate about building scalable web applications and crafting intuitive user experiences.  
+I focus on writing clean, efficient code while delivering high-performance and user-friendly solutions.
 
 ---
 
@@ -30,38 +29,33 @@
 
 ## 💼 Experience
 
-🔹 **SDE Intern — Bluestock Fintech**  
-→ Built high-performance REST APIs using Node.js & PostgreSQL  
-→ Improved frontend-backend performance and responsiveness  
+**SDE Intern — Bluestock Fintech**  
+→ Developed high-performance REST APIs using Node.js & PostgreSQL  
+→ Improved application performance and response times  
 
-🔹 **UI/UX Intern — HyprDevs**  
-→ Designed task management system with React & Firebase  
-→ Built reusable UI components & design systems  
+**UI/UX Intern — HyprDevs**  
+→ Built intuitive task management system with React & Firebase  
+→ Designed reusable UI components and design systems  
 
 ---
 
 ## 🚀 Projects
 
-🔐 **Stellar Vault Manager**  
-→ Secure password manager with cross-device access  
-→ *Next.js • React • TypeScript • Firebase*  
+**🔐 Stellar Vault Manager**  
+Secure password manager with cross-device access  
+*Next.js • React • TypeScript • Firebase*
 
-📊 **GITAM Attendance Calculator**  
-→ Smart attendance tracking web app  
-→ *Next.js • React • Tailwind CSS*  
-
----
-
-## 🏆 Leadership
-🎯 President — Athletics SIG (GITAM University)
+**📊 GITAM Attendance Calculator**  
+Smart attendance tracking web application  
+*Next.js • React • Tailwind CSS*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gandharr&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=gandharr&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gandharr&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=gandharr&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -70,19 +64,19 @@
 
 ---
 
-## 🦖 Coding Dino
+## 🦖 A Bit of Fun
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
 </p>
 
 <p align="center">
-  <i>Debugging code one step at a time 🦖</i>
+  <i>Still debugging… but getting there 🦖</i>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 <a href="https://gandharr.github.io/gandhar-Portfolio-Website/">
@@ -98,5 +92,6 @@
 
 ---
 
-## ⚡ Quote
-> "Code. Design. Build. Repeat."
+## ⚡ Philosophy
+
+> Building systems that are not just functional, but meaningful.
