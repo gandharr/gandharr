@@ -40,8 +40,9 @@ I focus on writing clean, efficient code while delivering high-performance and u
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gandharr&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gandharr&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gandharr&show_icons=true&theme=tokyonight&hide_border=true" height="180" width="420"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gandharr&layout=compact&theme=tokyonight&hide_border=true" height="180" width="420"/>
 </p>
 
 ---
@@ -49,7 +50,7 @@ I focus on writing clean, efficient code while delivering high-performance and u
 ## ⚡ Quote
 
 <p align="center">
-  <b>"Code. Design. Build. Repeat."</b>
+  <b>✨ "Code. Design. Build. Repeat." ✨</b>
 </p>
 
 ---
@@ -58,12 +59,12 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 <p align="center">
 <a href="https://gandharr.github.io/gandhar-Portfolio-Website/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/gandhar-dhore/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:dhore956@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
