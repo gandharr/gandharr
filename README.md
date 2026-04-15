@@ -64,14 +64,18 @@ Smart attendance tracking web application
 
 ---
 
-## 🦖 A Bit of Fun
+## 🦖 Coding Companion
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  <i>Still debugging… but getting there 🦖</i>
+  <img src="https://readme-typing-svg.demolab.com?lines=Your+coding+buddy+is+watching...&center=true&width=300&height=30&color=00F7FF&size=14" />
+</p>
+
+<p align="center">
+  <i>Debugging code one step at a time 🦖</i>
 </p>
 
 ---
@@ -92,6 +96,6 @@ Smart attendance tracking web application
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Quote
 
-> Building systems that are not just functional, but meaningful.
+> "Code. Design. Build. Repeat."
