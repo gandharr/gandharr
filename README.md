@@ -37,18 +37,6 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 ---
 
-## 🚀 Projects
-
-**🔐 Stellar Vault Manager**  
-Secure password manager with cross-device access  
-*Next.js • React • TypeScript • Firebase*
-
-**📊 GITAM Attendance Calculator**  
-Smart attendance tracking web application  
-*Next.js • React • Tailwind CSS*
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
