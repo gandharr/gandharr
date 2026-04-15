@@ -1,5 +1,4 @@
 <!-- ==================== HEADER ==================== -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Scalable+Web+Apps;Problem+Solver&center=true&width=600&height=45&color=00F7FF&size=22" />
 </p>
@@ -42,6 +41,10 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gandharr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gandharr&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
