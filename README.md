@@ -1,4 +1,5 @@
 <!-- ==================== HEADER ==================== -->
+<h1 align="center">Gandhar Dhore</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Scalable+Web+Apps;Problem+Solver&center=true&width=600&height=45&color=00F7FF&size=22" />
@@ -63,18 +64,10 @@ Smart attendance tracking web application
 
 ---
 
-## 🦖 Coding Companion
+## ⚡ Quote
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Your+coding+buddy+is+watching...&center=true&width=300&height=30&color=00F7FF&size=14" />
-</p>
-
-<p align="center">
-  <i>Debugging code one step at a time 🦖</i>
+  <b>"Code. Design. Build. Repeat."</b>
 </p>
 
 ---
@@ -92,9 +85,3 @@ Smart attendance tracking web application
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
-
-## ⚡ Quote
-
-> "Code. Design. Build. Repeat."
