@@ -8,6 +8,11 @@
   <img src="https://github.com/gandharr/gandharr/blob/main/Typing%20Coding%20GIF%20by%20Sugartown.gif?raw=true" width="100%" />
 </p>
 
+<!-- ==================== GRADIENT DIVIDER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -17,6 +22,16 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 ---
 
+<!-- ==================== LEARNING ==================== -->
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,docker,kubernetes" />
+</p>
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
 ## ⚡ Tech Stack
 
 <p align="center">
@@ -25,6 +40,7 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 ---
 
+<!-- ==================== EXPERIENCE ==================== -->
 ## 💼 Experience
 
 **SDE Intern — Bluestock Fintech**  
@@ -37,6 +53,7 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 ---
 
+<!-- ==================== ANALYTICS ==================== -->
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -47,6 +64,16 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 ---
 
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gandharr&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ==================== QUOTE ==================== -->
 ## ⚡ Quote
 
 <p align="center">
@@ -55,16 +82,17 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 ---
 
+<!-- ==================== CONNECT ==================== -->
 ## 🌐 Connect
 
 <p align="center">
 <a href="https://gandharr.github.io/gandhar-Portfolio-Website/">
-  <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/gandhar-dhore/">
-  <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dhore956@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
