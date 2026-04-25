@@ -49,7 +49,14 @@ I focus on writing clean, efficient code while delivering high-performance and u
 
 **UI/UX Intern — HyprDevs**  
 → Built intuitive task management system with React & Firebase  
-→ Designed reusable UI components and design systems  
+→ Designed reusable UI components and design systems 
+
+**Web Developement and Designing - Oasis Infobyte**
+→ Built AI-powered career intelligence platform using FastAPI & React
+→ Implemented resume parsing, role recommendations with explainable scoring, and skill gap analysis
+  Designed personalized learning path suggestions for career growth.
+
+
 
 ---
 
